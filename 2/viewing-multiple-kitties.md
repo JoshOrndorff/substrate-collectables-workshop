@@ -28,7 +28,7 @@ For our test we will have Alice create 3 kitties, Bob create 2 kitties, and Char
 
 ## Viewing Our Storage
 
-Now we can explore all the storage items we set up an make sure things are working correctly.
+Now we can explore all the storage items we set up and make sure things are working correctly.
 
 First we should check the total number of kitties in our system:
 
